@@ -7,8 +7,7 @@
         <img src="https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github" alt="GitHub发行版本">
     </a>
     <a href="https://www.bilibili.com/video/BV1zLtveZEKP/">
-        <img src="https://img.shields.io/badge/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
-        " alt="哔哩哔哩介绍视频">
+        <img src="https://img.shields.io/badge/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="哔哩哔哩介绍视频">
     </a>
 </p>
 
