@@ -22,7 +22,7 @@ QQ Group：![qqgroup2](https://img.shields.io/badge/947421391-1EBAFC?style=for-t
 
 
 ## Donate
-[![afdian](https://img.shields.io/badge/afdian(Only_CNY_and_can't_use_V/M_or_AMEX_and_Discover)-946CE6?style=for-the-badge&logo=afdian&logoColor=white
+[![afdian](https://img.shields.io/badge/afdian(Alipay_and_wechat)-946CE6?style=for-the-badge&logo=afdian&logoColor=white
 )](https://afdian.com/a/CH3COOOH)  
 
 <!--
